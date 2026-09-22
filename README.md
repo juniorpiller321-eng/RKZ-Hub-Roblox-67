@@ -1,1 +1,1 @@
-# RKZ-Hub-Roblox-67
+loadstring(game:HttpGet(""))()
